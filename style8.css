@@ -1,0 +1,78 @@
+.wrap{
+	background: white;
+	width: 900px;
+	margin: 10px auto;
+}
+ 
+/*bagian header*/
+.wrap .header{
+	font-size: 10pt;
+	color: white;
+	background: black;
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .header .menu{
+	color: #ffffff;
+	background: white;
+}
+ 
+.wrap .header .menu ul{
+	padding: 0;
+	margin: 0;
+	color: white;
+	background: black;
+	overflow: hidden;
+}
+ 
+.wrap .header .menu ul li{
+	float: left;
+	color: white;
+	list-style-type: none;
+	padding: 10px;
+}
+
+.warna {
+	color: white;
+}
+/*akhir menu*/
+
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	background: white;	
+	width: 25%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	background: white;
+	height: 100%;
+	width: 100%;	
+}
+
+.apalah td{
+	font-size: 10pt;
+	padding: 10px;
+}
+
+.apalah .main {
+	text-align: center;
+}
+
+.apalah .sub {
+	text-align: justify;
+}
+
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
